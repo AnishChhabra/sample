@@ -2,7 +2,7 @@
     "Item": [
         {
             "drawble": "R.mipmap.ic_launcher",
-            "title": "Hello"
+            "title": "Hello",
             "id": 1,
             "santaOfferId": "PZA180521123293",
             "summary": "5% Discount on all Flights",
