@@ -1,7 +1,7 @@
 {
     "Item": [
         {
-            "drawble": "R.mipmap.ic_launcher";
+            "drawble": "R.mipmap.ic_launcher",
             "title": "Hello"
             "id": 1,
             "santaOfferId": "PZA180521123293",
