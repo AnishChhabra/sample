@@ -1,28 +1,34 @@
 {
-    "items": [
+    "movies": [
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "H"
+            "title": "A",
+            "genre": "a",
+            "year": "1"
         },
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "e"
+            "title": "B",
+            "genre": "b",
+            "year": "2"
         },
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "l"
+            "title": "C",
+            "genre": "c",
+            "year": "3"
         },
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "l"
+            "title": "D",
+            "genre": "d",
+            "year": "4"
         },
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "o"
+            "title": "E",
+            "genre": "e",
+            "year": "5"
         },
         {
-            "drawable": "R.mipmap.ic_launcher",
-            "title": "!"
-        }
+            "title": "F",
+            "genre": "f",
+            "year": "6"
+        },
     ]
 }
