@@ -1,8 +1,28 @@
 {
     "items": [
         {
-            "drawable": "null",
-            "title": "Hello"
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "H"
+        },
+        {
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "e"
+        },
+        {
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "l"
+        },
+        {
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "l"
+        },
+        {
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "o"
+        },
+        {
+            "drawable": "R.mipmap.ic_launcher",
+            "title": "!"
         }
     ]
 }
