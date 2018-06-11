@@ -1,29 +1,15 @@
 {
-    "movies": [
+    "response": [
         {
-            "title": "A",
-            "genre": "a",
-            "year": "1"
-        },
-        {
-            "title": "B",
-            "genre": "b",
-            "year": "2"
-        },
-        {
-            "title": "C",
-            "genre": "c",
-            "year": "3"
-        },
-        {
-            "title": "D",
-            "genre": "d",
-            "year": "4"
-        },
-        {
-            "title": "E",
-            "genre": "e",
-            "year": "5"
+            "id": 1,
+            "santaOfferId": "PZA180521123293",
+            "summary": "5% Discount on all Flights",
+            "offerText": "5% Discount on all Flights",
+            "merchantId": "playground",
+            "activeFrom": 1528050600000,
+            "activeTill": 1530642600000,
+            "createdOnTimestamp": 1528088469000,
+            "active": true
         }
     ]
 }
